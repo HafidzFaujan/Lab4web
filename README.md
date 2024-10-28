@@ -28,8 +28,8 @@ menambahkan konten artikel
 ![Cuplikan layar 2024-10-28 065031](https://github.com/user-attachments/assets/8d2b8c4d-87c9-47cc-b0f4-ea9c862b1ead)
 floatnya saya ubah menjadi left agar persis seperti di modul
 
-
-
+![Cuplikan layar 2024-10-28 075750](https://github.com/user-attachments/assets/646c8c58-f8b8-471f-90e3-32626b79e0b4)
+![Cuplikan layar 2024-10-28 075804](https://github.com/user-attachments/assets/a448018b-960e-4e6a-b3c6-58b869c5bf1d)
 
 
 
